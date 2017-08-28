@@ -1,0 +1,1402 @@
+{
+  "companies": [
+    {
+      "id": "pasman",
+      "name": "Пасман",
+      "discount": "10",
+      "categories": [
+        "med"
+      ],
+      "images": {
+        "logo": "http://yabloko-nsk.ru/assets/mobile/images/Пасман1.1.png",
+        "full": "http://yabloko-nsk.ru/assets/mobile/images/Пасман2.png"
+      },
+      "urls": [
+        {
+          "type": "web",
+          "url": "http://www.pasman-clinic.ru"
+        },
+        {
+          "type": "vk",
+          "url": "pasman_clinic"
+        },
+        {
+          "type": "facebook",
+          "url": "http://www.facebook.com/pasmanclinic"
+        },
+        {
+          "type": "instagram",
+          "url": "http://www.instagram.com/clinicpasman/"
+        },
+        {
+          "type": "ok",
+          "url": "http://ok.ru/pasmanclinic"
+        }
+      ],
+      "phones": [
+        {
+          "phone": "+7 (383) 303–03–03"
+        }
+      ],
+      "open_time": [
+        {
+          "time": "Ежедневно 08:00–20:00"
+        }
+      ],
+      "locations": [
+        {
+          "address": "Дзержинского проспект, 1/1"
+        }
+      ]
+    },
+    {
+      "id": "evromed",
+      "name": "Евромед",
+      "discount": "10",
+      "categories": [
+        "med"
+      ],
+      "images": {
+        "logo": "http://yabloko-nsk.ru/assets/mobile/images/Евромед1.png",
+        "full": "http://yabloko-nsk.ru/assets/mobile/images/Евромед2.png"
+      },
+      "urls": [
+        {
+          "type": "email",
+          "url": "mailto:info@euromednsk.ru"
+        },
+        {
+          "type": "web",
+          "url": "http://www.euromednsk.ru"
+        },
+        {
+          "type": "vk",
+          "url": "evromednsk"
+        },
+        {
+          "type": "facebook",
+          "url": "http://www.facebook.com/euromednsk"
+        },
+        {
+          "type": "instagram",
+          "url": "http://www.instagram.com/euromedklinika/"
+        },
+        {
+          "type": "ok",
+          "url": "http://ok.ru/group/52954226098315"
+        }
+      ],
+      "phones": [
+        {
+          "phone": "+7 (383) 209–03–03"
+        }
+      ],
+      "open_time": [
+        {
+          "time": "пн-пт 08:00-21:00; сб-вс 09:00-19:00"
+        }
+      ],
+      "locations": [
+        {
+          "address": "Гоголя, 42"
+        }
+      ]
+    },
+    {
+      "id": "vashe_zdorovie",
+      "name": "Клиника Претор",
+      "discount": "10",
+      "categories": [
+        "med"
+      ],
+      "images": {
+        "logo": "http://yabloko-nsk.ru/assets/mobile/images/Претор1.png",
+        "full": "http://yabloko-nsk.ru/assets/mobile/images/Претор2.png"
+      },
+      "urls": [
+        {
+          "type": "email",
+          "url": "mailto:vashezdorovye@mail.ru"
+        },
+        {
+          "type": "web",
+          "url": "http://www.vz-nsk.ru"
+        }
+      ],
+      "phones": [
+        {
+          "phone": "+7 (383) 309–00–00"
+        }
+      ],
+      "open_time": [
+        {
+          "time": "Ежедневно 07:00–21:00"
+        }
+      ],
+      "locations": [
+        {
+          "address": "Красный проспект, 79/2"
+        }
+      ]
+    },
+    {
+      "id": "alphamed",
+      "name": "Альфамед",
+      "discount": "10",
+      "categories": [
+        "med"
+      ],
+      "images": {
+        "logo": "http://yabloko-nsk.ru/assets/mobile/images/Альфамед1.png",
+        "full": "http://yabloko-nsk.ru/assets/mobile/images/Альфамед2.png"
+      },
+      "urls": [
+        {
+          "type": "web",
+          "url": "http://www.alfamed-nsk.ru"
+        }
+      ],
+      "phones": [
+        {
+          "phone": "+7 (383) 2–276–227"
+        },
+        {
+          "phone": "+7 (383) 2–276–228"
+        }
+      ],
+      "open_time": [
+        {
+          "time": "пн-пт 08:00-21:00; сб 09:00-19:00; вс 09:00-16:00"
+        }
+      ],
+      "locations": [
+        {
+          "address": "Красный проспект, 86"
+        }
+      ]
+    },
+    {
+      "id": "gigant",
+      "name": "Гигант",
+      "discount": "10",
+      "categories": [
+        "prod"
+      ],
+      "images": {
+        "logo": "http://yabloko-nsk.ru/assets/mobile/images/Гигант1.png",
+        "full": "http://yabloko-nsk.ru/assets/mobile/images/Гигант2.png"
+      },
+      "urls": [
+        {
+          "type": "web",
+          "url": "http://www.sibgigant.ru"
+        },
+        {
+          "type": "vk",
+          "url": "club44270628",
+          "raw_id": true
+        },
+        {
+          "type": "twitter",
+          "url": "http://twitter.com/@megas_mall"
+        },
+        {
+          "type": "instagram",
+          "url": "http://www.instagram.com/gigant_nsk/"
+        }
+      ],
+      "phones": [
+        {
+          "phone": "+7 (383) 263–18–32"
+        },
+        {
+          "phone": "+7–960–779–79–29",
+          "comment": "Энергетиков проезд, 8"
+        },
+        {
+          "phone": "+7–905–956–67–49",
+          "comment": "Автогенная, 126"
+        },
+        {
+          "phone": "+7–961–226–36–28",
+          "comment": "Бердское шоссе, 277"
+        }
+      ],
+      "open_time": [
+        {
+          "time": "Круглосуточно",
+          "comment": "Энергетиков проезд, 8 и Бердское шоссе, 277"
+        },
+        {
+          "time": "Ежедневно 08:30–22:00",
+          "comment": "Автогенная, 126"
+        }
+      ],
+      "locations": [
+        {
+          "address": "Энергетиков проезд, 8",
+          "point": {
+            "longitude": 82.875335,
+            "latitude": 55.011329
+          }
+        },
+        {
+          "address": "Автогенная, 126",
+          "point": {
+            "longitude": 82.98694,
+            "latitude": 55.022561
+          }
+        },
+        {
+          "address": "Бердское шоссе, 277",
+          "point": {
+            "longitude": 83.064108,
+            "latitude": 54.847427
+          }
+        }
+      ]
+    },
+    {
+      "id": "bystronom",
+      "name": "Быстроном",
+      "discount": "20",
+      "categories": [
+        "prod"
+      ],
+      "images": {
+        "logo": "http://yabloko-nsk.ru/assets/mobile/images/Быстроном1.png",
+        "full": "http://yabloko-nsk.ru/assets/mobile/images/Быстроном2.png"
+      },
+      "urls": [
+        {
+          "type": "web",
+          "url": "http://www.быстроном.рф"
+        }
+      ],
+      "phones": [
+        {
+          "phone": "+7 (383) 325–20–23"
+        },
+        {
+          "phone": "+7 (383) 325–20–24"
+        }
+      ],
+      "open_time": [
+        {
+          "time": "Ежедневно 08:00–00:00"
+        }
+      ],
+      "locations": [
+        {
+          "address": "Немировича-Данченко, 145/2"
+        }
+      ]
+    },
+    {
+      "id": "megas",
+      "name": "Мегас",
+      "discount": "15",
+      "categories": [
+        "prod"
+      ],
+      "images": {
+        "logo": "http://yabloko-nsk.ru/assets/mobile/images/Мегас1.png",
+        "full": "http://yabloko-nsk.ru/assets/mobile/images/Мегас2.png"
+      },
+      "urls": [
+        {
+          "type": "web",
+          "url": "http://megas.sibgigant.ru"
+        },
+        {
+          "type": "vk",
+          "url": "club44270628",
+          "raw_id": true
+        },
+        {
+          "type": "twitter",
+          "url": "http://twitter.com/@megas_mall"
+        },
+        {
+          "type": "facebook",
+          "url": "http://www.facebook.com/megas2139450"
+        },
+        {
+          "type": "instagram",
+          "url": "http://www.instagram.com/megas_nsk/"
+        },
+        {
+          "type": "ok",
+          "url": "http://ok.ru/etosoobsh"
+        }
+      ],
+      "phones": [
+        {
+          "phone": "+7 (383) 263–18–32"
+        }
+      ],
+      "open_time": [
+        {
+          "time": "Ежедневно 08:00–00:00",
+          "comment": "Красный проспект, 2/1"
+        },
+        {
+          "time": "Ежедневно 09:00–00:00",
+          "comment": "Карла Маркса площадь, 7"
+        }
+      ],
+      "locations": [
+        {
+          "address": "Красный проспект, 2/1"
+        }
+      ]
+    },
+    {
+      "id": "bahetle",
+      "name": "Бахетле",
+      "discount": "15",
+      "categories": [
+        "prod"
+      ],
+      "images": {
+        "logo": "http://yabloko-nsk.ru/assets/mobile/images/Бахетле1.png",
+        "full": "http://yabloko-nsk.ru/assets/mobile/images/Бахетле2.png"
+      },
+      "phones": [
+        {
+          "phone": "+7 (383) 255–81–42"
+        }
+      ],
+      "open_time": [
+        {
+          "time": "Ежедневно 08:00–23:00"
+        }
+      ],
+      "locations": [
+        {
+          "address": "Кирова, 25"
+        }
+      ]
+    },
+    {
+      "id": "gorozhanka",
+      "name": "Горожанка",
+      "discount": "10",
+      "categories": [
+        "prod"
+      ],
+      "images": {
+        "logo": "http://yabloko-nsk.ru/assets/mobile/images/Горожанка1.2.png",
+        "full": "http://yabloko-nsk.ru/assets/mobile/images/Горожанка2.png"
+      },
+      "urls": [
+        {
+          "type": "web",
+          "url": "http://gorozhanka.sibgigant.ru"
+        }
+      ],
+      "phones": [
+        {
+          "phone": "+7 (383) 263–18–32"
+        },
+        {
+          "phone": "+7 (963) 943–55–98"
+        }
+      ],
+      "open_time": [
+        {
+          "time": "Ежедневно 08:00–00:00"
+        }
+      ],
+      "locations": [
+        {
+          "address": "Каменская, 44"
+        }
+      ]
+    },
+    {
+      "id": "dns",
+      "name": "DNS",
+      "discount": "7",
+      "categories": [
+        "tech"
+      ],
+      "images": {
+        "logo": "http://yabloko-nsk.ru/assets/mobile/images/ДНС1.png",
+        "full": "http://yabloko-nsk.ru/assets/mobile/images/ДНС2.png"
+      },
+      "urls": [
+        {
+          "type": "web",
+          "url": "http://www.dns-shop.ru"
+        },
+        {
+          "type": "vk",
+          "url": "dnsstore"
+        },
+        {
+          "type": "twitter",
+          "url": "http://twitter.com/dnsshop"
+        },
+        {
+          "type": "facebook",
+          "url": "http://www.facebook.com/dnsshop"
+        },
+        {
+          "type": "youtube",
+          "url": "http://www.youtube.com/channel/UCDhYrb0Ec4NQ_j3ZiAucE0Q"
+        }
+      ],
+      "phones": [
+        {
+          "phone": "8–800–77–07–999"
+        }
+      ],
+      "open_time": [
+        {
+          "time": "Ежедневно 10:00–21:00"
+        }
+      ],
+      "locations": [
+        {
+          "address": "Ватутина, 31"
+        }
+      ]
+    },
+    {
+      "id": "alex_fitness",
+      "name": "Alex Fitness",
+      "discount": "10",
+      "categories": [
+        "fit"
+      ],
+      "images": {
+        "logo": "http://yabloko-nsk.ru/assets/mobile/images/Алекс_фитнес1.png",
+        "full": "http://yabloko-nsk.ru/assets/mobile/images/Алекс_фитнес2.png"
+      },
+      "urls": [
+        {
+          "type": "web",
+          "url": "http://www.alexfitness.ru"
+        },
+        {
+          "type": "vk",
+          "url": "alexfitness"
+        },
+        {
+          "type": "twitter",
+          "url": "http://twitter.com/@alexfitnessclub"
+        },
+        {
+          "type": "facebook",
+          "url": "http://www.facebook.com/alexfitness.russia"
+        },
+        {
+          "type": "instagram",
+          "url": "http://www.instagram.com/alexfitness_ru/"
+        },
+        {
+          "type": "youtube",
+          "url": "http://www.youtube.com/user/TheALEXFitness"
+        }
+      ],
+      "phones": [
+        {
+          "phone": "+7 (383) 286‒88‒88"
+        }
+      ],
+      "open_time": [
+        {
+          "time": "пн-пт 7:00-00:00; сб-вс 9:00-22:00"
+        }
+      ],
+      "locations": [
+        {
+          "address": "Гоголя, 15"
+        }
+      ]
+    },
+    {
+      "id": "extreme_fitness",
+      "name": "Extreme Fitness",
+      "discount": "10",
+      "categories": [
+        "fit"
+      ],
+      "images": {
+        "logo": "http://yabloko-nsk.ru/assets/mobile/images/Экстрим_фитнес1.png",
+        "full": "http://yabloko-nsk.ru/assets/mobile/images/Экстрим_фитнес2.png"
+      },
+      "urls": [
+        {
+          "type": "email",
+          "url": "mailto:extreme-info@mail.ru"
+        },
+        {
+          "type": "web",
+          "url": "http://www.extremefitness.ru/"
+        },
+        {
+          "type": "vk",
+          "url": "club20874421",
+          "raw_id": true
+        },
+        {
+          "type": "twitter",
+          "url": "http://twitter.com/TvoiExtreme"
+        },
+        {
+          "type": "instagram",
+          "url": "http://www.instagram.com/extremefitnessnsk/"
+        },
+        {
+          "type": "youtube",
+          "url": "http://www.youtube.com/user/ExtremeFitnessNSK"
+        }
+      ],
+      "phones": [
+        {
+          "phone": "+7 (383) 349‒90‒90"
+        }
+      ],
+      "open_time": [
+        {
+          "time": "круглосуточно"
+        }
+      ],
+      "locations": [
+        {
+          "address": "Карла Маркса площадь, 3"
+        }
+      ]
+    },
+    {
+      "id": "delphinia",
+      "name": "Дельфиния",
+      "discount": "10",
+      "categories": [
+        "fun"
+      ],
+      "images": {
+        "logo": "http://yabloko-nsk.ru/assets/mobile/images/Дельфиния1.png",
+        "full": "http://yabloko-nsk.ru/assets/mobile/images/Дельфиния2.png"
+      },
+      "urls": [
+        {
+          "type": "web",
+          "url": "http://www.nsk.delfinary.com"
+        },
+        {
+          "type": "vk",
+          "url": "delfinya"
+        },
+        {
+          "type": "facebook",
+          "url": "http://www.facebook.com/groups/nskdelfinary"
+        },
+        {
+          "type": "instagram",
+          "url": "http://www.instagram.com/delfinia_nsk/"
+        }
+      ],
+      "open_time": [
+        {
+          "time": "Ежедневно 09:00–20:00"
+        }
+      ],
+      "locations": [
+        {
+          "address": "Жуковского, 100/4"
+        }
+      ]
+    },
+    {
+      "id": "aquapark",
+      "name": "Лидер-ленд",
+      "discount": "20",
+      "categories": [
+        "fun"
+      ],
+      "images": {
+        "logo": "http://yabloko-nsk.ru/assets/mobile/images/Аквапарк1.png",
+        "full": "http://yabloko-nsk.ru/assets/mobile/images/Аквапарк2.png"
+      },
+      "urls": [
+        {
+          "type": "web",
+          "url": "www.lider-land.ru"
+        }
+      ],
+      "phones": [
+        {
+          "phone": "+7 (383) 271–44–00"
+        },
+        {
+          "phone": "+7–913–989–44–66"
+        },
+        {
+          "phone": "+7 (383) 271–00–55"
+        }
+      ],
+      "open_time": [
+        {
+          "time": "Ежедневно 08:00–21:00"
+        }
+      ],
+      "locations": [
+        {
+          "address": "Республиканская, 12/2"
+        }
+      ]
+    },
+    {
+      "id": "filarmonia",
+      "name": "Филармония",
+      "discount": "10",
+      "categories": [
+        "fun"
+      ],
+      "images": {
+        "logo": "http://yabloko-nsk.ru/assets/mobile/images/Филармония1.png",
+        "full": "http://yabloko-nsk.ru/assets/mobile/images/Филармония2.1.png"
+      },
+      "urls": [
+        {
+          "type": "web",
+          "url": "http://filnsk.ru"
+        },
+        {
+          "type": "vk",
+          "url": "philnsk"
+        },
+        {
+          "type": "twitter",
+          "url": "http://twitter.com/philnsk"
+        },
+        {
+          "type": "facebook",
+          "url": "http://www.facebook.com/filnsk/"
+        },
+        {
+          "type": "ok",
+          "url": "http://ok.ru/philnsk"
+        },
+        {
+          "type": "youtube",
+          "url": "http://www.youtube.com/channel/UCZl_OOGXPQSwi7xr0RcO2_g"
+        }
+      ],
+      "phones": [
+        {
+          "phone": "+7 (383) 223–41–41"
+        },
+        {
+          "phone": "+7 (383) 222–15–11",
+          "comment": "Красный проспект, 32"
+        },
+        {
+          "phone": "+7 (383) 227–16–65",
+          "comment": "Красный проспект, 32"
+        },
+        {
+          "phone": "+7 (383) 223–43–02",
+          "comment": "Красный проспект, 18/1"
+        }
+      ],
+      "open_time": [
+        {
+          "time": "Ежедневно 09:30–19:00, обед 13:00–13:30",
+          "comment": "Красный проспект, 32"
+        },
+        {
+          "time": "Ежедневно 10:00–19:00",
+          "comment": "Красный проспект, 18/1"
+        }
+      ],
+      "locations": [
+        {
+          "address": "Красный проспект, 32"
+        },
+        {
+          "address": "Красный проспект, 18/1"
+        }
+      ]
+    },
+    {
+      "id": "chashka_kofe",
+      "name": "Чашка кофе",
+      "discount": "10",
+      "categories": [
+        "cafe"
+      ],
+      "images": {
+        "logo": "http://yabloko-nsk.ru/assets/mobile/images/Чашка_кофе1.png",
+        "full": "http://yabloko-nsk.ru/assets/mobile/images/Чашка_кофе2.png"
+      },
+      "urls": [
+        {
+          "type": "email",
+          "url": "mailto:chashkacoffee@mail.ru"
+        },
+        {
+          "type": "web",
+          "url": "http://chashkacoffee.ru"
+        },
+        {
+          "type": "vk",
+          "url": "night_chashka_coffee"
+        },
+        {
+          "type": "instagram",
+          "url": "http://www.instagram.com/chashka_coffee/"
+        }
+      ],
+      "phones": [
+        {
+          "phone": "+7 (383) 299‒06‒02"
+        }
+      ],
+      "open_time": [
+        {
+          "time": "ежедневно 08:00–00:00"
+        }
+      ],
+      "locations": [
+        {
+          "address": "Красный проспект, 22"
+        }
+      ]
+    },
+    {
+      "id": "maksimilians",
+      "name": "Максимилианс",
+      "discount": "10",
+      "categories": [
+        "cafe"
+      ],
+      "images": {
+        "logo": "http://yabloko-nsk.ru/assets/mobile/images/Максимилианс1.png",
+        "full": "http://yabloko-nsk.ru/assets/mobile/images/Максимилианс2.png"
+      },
+      "urls": [
+        {
+          "type": "web",
+          "url": "http://maximilians.ru"
+        },
+        {
+          "type": "vk",
+          "url": "maximilians_novosibirsk"
+        },
+        {
+          "type": "facebook",
+          "url": "http://www.facebook.com/maximilians.nsk"
+        },
+        {
+          "type": "instagram",
+          "url": "http://www.instagram.com/maximilians_life/"
+        },
+        {
+          "type": "ok",
+          "url": "http://ok.ru/maximilians.novosibirsk"
+        },
+        {
+          "type": "youtube",
+          "url": "http://www.youtube.com/user/MaximiliansNsk"
+        }
+      ],
+      "phones": [
+        {
+          "phone": "+7 (383) 285‒88‒84"
+        }
+      ],
+      "open_time": [
+        {
+          "time": "вс-чт 12:00-02:00; пт-сб 12:00-05:00"
+        }
+      ],
+      "locations": [
+        {
+          "address": "Дуси Ковальчук, 1/1"
+        }
+      ]
+    },
+    {
+      "id": "sibir_sibir",
+      "name": "#СибирьСибирь",
+      "discount": "7",
+      "categories": [
+        "cafe"
+      ],
+      "images": {
+        "logo": "http://yabloko-nsk.ru/assets/mobile/images/СибирьСибирь1.png",
+        "full": "http://yabloko-nsk.ru/assets/mobile/images/СибирьСибирь2.png"
+      },
+      "urls": [
+        {
+          "type": "web",
+          "url": "http://sibirsibir.ru"
+        },
+        {
+          "type": "vk",
+          "url": "denisivanov_sibirsibir"
+        },
+        {
+          "type": "facebook",
+          "url": "http://www.facebook.com/sibirsibirbydenisivanov"
+        },
+        {
+          "type": "instagram",
+          "url": "http://www.instagram.com/sibirsibir/"
+        }
+      ],
+      "phones": [
+        {
+          "phone": "+7 (383) 209‒1‒209"
+        }
+      ],
+      "open_time": [
+        {
+          "time": "вс-чт 11:00-00:00; пт-сб 11:00-02:00"
+        }
+      ],
+      "locations": [
+        {
+          "address": "Ленина, 21"
+        }
+      ]
+    },
+    {
+      "id": "ekler",
+      "name": "Эклер",
+      "discount": "20",
+      "categories": [
+        "cafe"
+      ],
+      "images": {
+        "logo": "http://yabloko-nsk.ru/assets/mobile/images/Эклер1.png",
+        "full": "http://yabloko-nsk.ru/assets/mobile/images/Эклер2.png"
+      },
+      "urls": [
+        {
+          "type": "web",
+          "url": "http://www.eclaircafe.ru"
+        },
+        {
+          "type": "vk",
+          "url": "club53572756",
+          "raw_id": true
+        },
+        {
+          "type": "facebook",
+          "url": "http://www.facebook.com/LecafeEclair"
+        },
+        {
+          "type": "instagram",
+          "url": "http://www.instagram.com/eclairkafe/"
+        }
+      ],
+      "phones": [
+        {
+          "phone": "+7 (383) 209‒22‒85"
+        },
+        {
+          "phone": "+7 (383) 285‒88‒31"
+        }
+      ],
+      "open_time": [
+        {
+          "time": "пн-пт 07:30-00:00; сб-вс 08:30-00:00"
+        }
+      ],
+      "locations": [
+        {
+          "address": "Ядринцевская, 21"
+        }
+      ]
+    },
+    {
+      "id": "osteria",
+      "name": "Остерия",
+      "discount": "10",
+      "categories": [
+        "cafe"
+      ],
+      "images": {
+        "logo": "http://yabloko-nsk.ru/assets/mobile/images/Остерия_Бергамо1.png",
+        "full": "http://yabloko-nsk.ru/assets/mobile/images/Остерия_Бергамо2.png"
+      },
+      "urls": [
+        {
+          "type": "web",
+          "url": "http://osteria-bergamo.ru"
+        },
+        {
+          "type": "vk",
+          "url": "club58823036",
+          "raw_id": true
+        },
+        {
+          "type": "instagram",
+          "url": "http://www.instagram.com/osteriyabergamo/"
+        }
+      ],
+      "phones": [
+        {
+          "phone": "+7 (383) 209‒01‒04"
+        },
+        {
+          "phone": "+7 (383) 209‒01‒05"
+        }
+      ],
+      "open_time": [
+        {
+          "time": "ежедневно 12:00–24:00"
+        }
+      ],
+      "locations": [
+        {
+          "address": "Ядринцевская, 21"
+        }
+      ]
+    },
+    {
+      "id": "kuzina",
+      "name": "Кузина",
+      "discount": "10",
+      "categories": [
+        "sweet"
+      ],
+      "images": {
+        "logo": "http://yabloko-nsk.ru/assets/mobile/images/Кузина1.png",
+        "full": "http://yabloko-nsk.ru/assets/mobile/images/Кузина2.1.png"
+      },
+      "urls": [
+        {
+          "type": "web",
+          "url": "http://kuzina.ru"
+        },
+        {
+          "type": "vk",
+          "url": "kuzina_russia"
+        },
+        {
+          "type": "facebook",
+          "url": "http://www.facebook.com/KuzinaRussia"
+        },
+        {
+          "type": "instagram",
+          "url": "http://www.instagram.com/kuzina_russia/"
+        },
+        {
+          "type": "ok",
+          "url": "http://ok.ru/kuzinarussia"
+        }
+      ],
+      "phones": [
+        {
+          "phone": "+7 (383) 209–27–59"
+        }
+      ],
+      "open_time": [
+        {
+          "time": "Ежедневно 08:00–22:00"
+        }
+      ],
+      "locations": [
+        {
+          "address": "Советская, 37"
+        }
+      ]
+    },
+    {
+      "id": "dudnik",
+      "name": "Дудник",
+      "discount": "10",
+      "categories": [
+        "sweet"
+      ],
+      "images": {
+        "logo": "http://yabloko-nsk.ru/assets/mobile/images/Дудник1.png",
+        "full": "http://yabloko-nsk.ru/assets/mobile/images/Дудник2.png"
+      },
+      "urls": [
+        {
+          "type": "web",
+          "url": "http://www.kddudnik.ru"
+        },
+        {
+          "type": "vk",
+          "url": "kd_dudnik"
+        },
+        {
+          "type": "instagram",
+          "url": "http://www.instagram.com/p/BUqDTpAjSXl/"
+        }
+      ],
+      "phones": [
+        {
+          "phone": "+7 (383) 246–15–57"
+        }
+      ],
+      "open_time": [
+        {
+          "time": "Ежедневно 08:00–22:00"
+        }
+      ],
+      "locations": [
+        {
+          "address": "Советская, 37"
+        }
+      ]
+    },
+    {
+      "id": "luksor",
+      "name": "Люксор",
+      "discount": "10",
+      "categories": [
+        "cinema"
+      ],
+      "images": {
+        "logo": "http://yabloko-nsk.ru/assets/mobile/images/Люксор1.png",
+        "full": "http://yabloko-nsk.ru/assets/mobile/images/Люксор2.png"
+      },
+      "urls": [
+        {
+          "type": "web",
+          "url": "http://www.luxorfilm.ru"
+        },
+        {
+          "type": "vk",
+          "url": "luxorofficial"
+        },
+        {
+          "type": "facebook",
+          "url": "http://www.facebook.com/luxorfilm/"
+        },
+        {
+          "type": "instagram",
+          "url": "http://www.instagram.com/luxorcinema/"
+        },
+        {
+          "type": "ok",
+          "url": "http://ok.ru/luxorfilm"
+        },
+        {
+          "type": "youtube",
+          "url": "http://youtube.com/luxorofficial"
+        }
+      ],
+      "phones": [
+        {
+          "phone": "+7 (383) 347–78–79"
+        },
+        {
+          "phone": "+7 (383) 347–89–00"
+        }
+      ],
+      "open_time": [
+        {
+          "time": "Ежедневно 10:00–02:00"
+        }
+      ],
+      "locations": [
+        {
+          "address": "Гоголя, 13"
+        }
+      ]
+    },
+    {
+      "id": "kosmik",
+      "name": "Космик",
+      "discount": "10",
+      "categories": [
+        "child"
+      ],
+      "images": {
+        "logo": "http://yabloko-nsk.ru/assets/mobile/images/Космик-Новосибирск1.png",
+        "full": "http://yabloko-nsk.ru/assets/mobile/images/Космик-Новосибирск2.png"
+      },
+      "urls": [
+        {
+          "type": "web",
+          "url": "http://www.cosmik.ru"
+        },
+        {
+          "type": "vk",
+          "url": "club36120944",
+          "raw_id": true
+        },
+        {
+          "type": "twitter",
+          "url": "http://twitter.com/@cosmik_official"
+        },
+        {
+          "type": "facebook",
+          "url": "http://www.facebook.com/officialcosmik"
+        },
+        {
+          "type": "instagram",
+          "url": "http://www.instagram.com/cosmik_official/"
+        },
+        {
+          "type": "youtube",
+          "url": "http://youtube.com/luxorofficial"
+        }
+      ],
+      "phones": [
+        {
+          "phone": "+7 (383) 230–22–70",
+          "comment": "Боулинг"
+        },
+        {
+          "phone": "+7 (383) 230–23–08",
+          "comment": "Бар"
+        }
+      ],
+      "open_time": [
+        {
+          "time": "пн-чт 12:00-00:00; пт 12:00-03:00; сб 11:00-03:00; вс 11:00-00:00"
+        }
+      ],
+      "locations": [
+        {
+          "address": "Военная, 5"
+        }
+      ]
+    },
+    {
+      "id": "leol",
+      "name": "Леол",
+      "discount": "10",
+      "categories": [
+        "beauty"
+      ],
+      "images": {
+        "logo": "http://yabloko-nsk.ru/assets/mobile/images/Леол1.png",
+        "full": "http://yabloko-nsk.ru/assets/mobile/images/Леол2.png"
+      },
+      "urls": [
+        {
+          "type": "web",
+          "url": "http://www.leol.pro"
+        },
+        {
+          "type": "vk",
+          "url": "salonleol"
+        },
+        {
+          "type": "facebook",
+          "url": "http://www.facebook.com/LeolSalon"
+        },
+        {
+          "type": "instagram",
+          "url": "http://www.instagram.com/salonyleol/"
+        },
+        {
+          "type": "youtube",
+          "url": "http://www.youtube.com/user/salonLEOL"
+        }
+      ],
+      "phones": [
+        {
+          "phone": "+7 (383) 287–91–27"
+        }
+      ],
+      "open_time": [
+        {
+          "time": "Ежедневно 10:00–22:00"
+        }
+      ],
+      "locations": [
+        {
+          "address": "Фрунзе, 238"
+        }
+      ]
+    },
+    {
+      "id": "ahava",
+      "name": "Ahava",
+      "discount": "10",
+      "categories": [
+        "beauty"
+      ],
+      "images": {
+        "logo": "http://yabloko-nsk.ru/assets/mobile/images/AhavaSpa1.png",
+        "full": "http://yabloko-nsk.ru/assets/mobile/images/AhavaSpa2.png"
+      },
+      "urls": [
+        {
+          "type": "web",
+          "url": "http://www.ahava-spa.ru"
+        },
+        {
+          "type": "vk",
+          "url": "axava_ns"
+        },
+        {
+          "type": "facebook",
+          "url": "http://www.facebook.com/StudiaKrasotyAhavaSpa"
+        },
+        {
+          "type": "instagram",
+          "url": "http://www.instagram.com/ahava_spa_nsk/"
+        }
+      ],
+      "phones": [
+        {
+          "phone": "+7 (383) 220–93–42"
+        },
+        {
+          "phone": "+7–913–708–10–26"
+        },
+        {
+          "phone": "+7–993–003–27–59"
+        }
+      ],
+      "open_time": [
+        {
+          "time": "пн-пт 09:00-21:00; сб-вс 10:00–20:00"
+        }
+      ],
+      "locations": [
+        {
+          "address": "Красный проспект, 77Б"
+        }
+      ]
+    },
+    {
+      "id": "perfect",
+      "name": "Perfect Style",
+      "discount": "10",
+      "categories": [
+        "wear"
+      ],
+      "images": {
+        "logo": "http://yabloko-nsk.ru/assets/mobile/images/Perfect_Style1.png",
+        "full": "http://yabloko-nsk.ru/assets/mobile/images/Perfect_Style2.png"
+      },
+      "urls": [
+        {
+          "type": "web",
+          "url": "http://www.perfect-style.it"
+        },
+        {
+          "type": "vk",
+          "url": "perfstyle"
+        },
+        {
+          "type": "twitter",
+          "url": "http://twitter.com/@perfectstylesib"
+        },
+        {
+          "type": "instagram",
+          "url": "http://www.instagram.com/perfect_style_sib/"
+        }
+      ],
+      "phones": [
+        {
+          "phone": "+7 (383) 287–33–49"
+        },
+        {
+          "phone": "+7 (383) 239–56–89"
+        }
+      ],
+      "open_time": [
+        {
+          "time": "Ежедневно 11:00–21:00"
+        }
+      ],
+      "locations": [
+        {
+          "address": "Красный проспект, 37"
+        }
+      ]
+    },
+    {
+      "id": "primalinea",
+      "name": "Prima Linea",
+      "discount": "10",
+      "categories": [
+        "wear"
+      ],
+      "images": {
+        "logo": "http://yabloko-nsk.ru/assets/mobile/images/PrimaLinea1.png",
+        "full": "http://yabloko-nsk.ru/assets/mobile/images/PrimaLinea2.png"
+      },
+      "urls": [
+        {
+          "type": "web",
+          "url": "http://pl-salon.ru/"
+        },
+        {
+          "type": "vk",
+          "url": "salonprimalinea"
+        }
+      ],
+      "phones": [
+        {
+          "phone": "+7 (383) 310–27–02"
+        }
+      ],
+      "open_time": [
+        {
+          "time": "Ежедневно 10:00–22:00"
+        }
+      ],
+      "locations": [
+        {
+          "address": "Фрунзе, 238"
+        },
+        {
+          "address": "Ватутина, 107"
+        }
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "id": "med",
+      "name": "Медицина | Стоматология"
+    },
+    {
+      "id": "prod",
+      "name": "Продуктовые магазины | Гипермаркеты"
+    },
+    {
+      "id": "tech",
+      "name": "Бытовая техника и электроника"
+    },
+    {
+      "id": "fit",
+      "name": "Фитнес клубы | Тренажерные залы"
+    },
+    {
+      "id": "fun",
+      "name": "Развлечение | Досуг"
+    },
+    {
+      "id": "cafe",
+      "name": "Рестораны | Кафе "
+    },
+    {
+      "id": "sweet",
+      "name": "Кондитерские"
+    },
+    {
+      "id": "cinema",
+      "name": "Кинотеатр | Досуг"
+    },
+    {
+      "id": "child",
+      "name": "Детский досуг | Боулинг"
+    },
+    {
+      "id": "beauty",
+      "name": "Салон красоты | Косметические услуги"
+    },
+    {
+      "id": "wear",
+      "name": "Одежда | Обувь"
+    }
+  ]
+}
